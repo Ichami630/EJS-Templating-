@@ -1,6 +1,0 @@
-<% variable %>    JS output
-<%= %>            JS Execute
-<%- <h1>hello</h1> %> Render HTML
-<%% %%>             show <% or %>
-<%# %>      EJS comments
-<%- include("header.ejs") %>  Insert another EJS file
